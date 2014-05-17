@@ -6,5 +6,5 @@ if (file_exists($filename)) {
 } else {
     echo "The file $filename does not exist";
 }
- echo '<img src='.$filename.'>';
+ echo '<img src='.$filename.'> test';
 ?>
